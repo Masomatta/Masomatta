@@ -6,10 +6,10 @@
 
 
 ---
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
   <!-- Left Side: About Me Text -->
-  <div>
+  <div style="flex: 1; padding-right: 20px;">
     <ul style="list-style: none; padding: 0; margin: 0;">
       <li>🎓 Junior web developer with a passion for <strong>full-stack development</strong> and <strong>artificial intelligence</strong></li>
       <li>🌱 Currently Learning:</li>
@@ -27,7 +27,7 @@
   </div>
 
   <!-- Right Side: Animation -->
-  <div display: flex;">
+  <div style="flex: 1; display: flex; justify-content: flex-end;">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width: 100%; height: auto;" alt="Coding Animation" />
   </div>
 
