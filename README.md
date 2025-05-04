@@ -8,9 +8,9 @@
 ---
 ### 🧠 About Me
 
-<div style="display: flex; justify-content: space-between; align-items:; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <div style="flex: 1; text-align: left;">
+  <div style="flex: 1;">
 
 - 🎓 Junior web developer with a passion for **full-stack development** and **artificial intelligence**  
 - 🌱 Currently Learning  
@@ -26,9 +26,12 @@ I'm exploring the MERN stack step-by-step to become a confident full-stack devel
 
   </div>
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
+  <div>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+  </div>
 
 </div>
+
 ### 💻 Tech Stack
 
 **Languages & Tools:**
