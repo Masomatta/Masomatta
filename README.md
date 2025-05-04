@@ -10,6 +10,7 @@
 
 ### 🧠 About Me
 <div style="display: flex"> 
+  <div>
 - 🎓 Junior web developer with a passion for **full-stack development** and **artificial intelligence**  
 - 🌱 Currently learning and building projects with:  
   ⚛️ React.js – dynamic user interfaces  
@@ -19,10 +20,12 @@
   🟦 TypeScript – safer, scalable JavaScript  
 - 💡 Interested in building tech solutions that make an impact  
 - ✨ Dream: To bridge the gap between **humans and AI**  
-
+</div>
+<div> 
 <p align="right">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
 </p>
+</div>
 </div>
 
 
