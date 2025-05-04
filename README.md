@@ -6,10 +6,10 @@
 
 
 ---
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<div style="display: flex;">
 
   <!-- Left Side: About Me Text -->
-  <div style="flex: 1;">
+  <div>
     <ul style="list-style: none; padding: 0; margin: 0;">
       <li>🎓 Junior web developer with a passion for <strong>full-stack development</strong> and <strong>artificial intelligence</strong></li>
       <li>🌱 Currently Learning:</li>
@@ -22,12 +22,12 @@
       </ul>
       <li>🚀 Exploring the MERN stack step-by-step to become a confident full-stack developer.</li>
       <li>💡 Interested in building tech solutions that make an impact</li>
-      <li>✨ Dream: To bridge the gap between <strong>humans and AI</strong></li>
+      <li>✨ Dream: Pioneer within technological world alongside keeping my positive vibe</li>
     </ul>
   </div>
 
   <!-- Right Side: Animation -->
-  <div style="flex: 1; display: flex; justify-content: center;">
+  <div display: flex;">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width: 100%; height: auto;" alt="Coding Animation" />
   </div>
 
