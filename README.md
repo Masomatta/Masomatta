@@ -5,11 +5,10 @@
 </p>
 
 
----
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; gap: 20px;">
 
   <!-- Left Side: About Me Text -->
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1;">
     <ul style="list-style: none; padding: 0; margin: 0;">
       <li>🎓 Junior web developer with a passion for <strong>full-stack development</strong> and <strong>artificial intelligence</strong></li>
       <li>🌱 Currently Learning:</li>
@@ -27,12 +26,11 @@
   </div>
 
   <!-- Right Side: Animation -->
-  <div style="flex: 1; display: flex; justify-content: flex-end;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width: 100%; height: auto;" alt="Coding Animation" />
+  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width: 100%; height: auto; max-height: 300px;" alt="Coding Animation" />
   </div>
 
 </div>
-
 
 
 ### 💻 Tech Stack
