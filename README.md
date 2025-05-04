@@ -9,20 +9,29 @@
 
 ### 🧠 About Me
 
-- 🎓 Junior web developer with a passion for **full-stack development** and **artificial intelligence**  ![Aspiring Coder](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
-- 🌱 Currently Learning
-I'm currently learning and building projects with:
-⚛️ React.js – for building dynamic user interfaces
-🎨 Tailwind CSS – for writing clean and responsive UI styles
-🟢 Node.js & 🧩 Express.js – for backend development and APIs       
-🍃 MongoDB – for working with NoSQL databases
-🟦 TypeScript – for writing safer and more maintainable JavaScript
-I'm exploring the MERN stack step-by-step to become a confident full-stack developer.
-- 💡 Interested in building tech solutions that make an impact
-- 💡 Interested in building tech solutions that make an impact
+<table>
+  <tr>
+    <td>
+
+- 🎓 Junior web developer with a passion for **full-stack development** and **artificial intelligence**  
+- 🌱 Currently Learning  
+I'm currently learning and building projects with:  
+⚛️ React.js – for building dynamic user interfaces  
+🎨 Tailwind CSS – for writing clean and responsive UI styles  
+🟢 Node.js & 🧩 Express.js – for backend development and APIs  
+🍃 MongoDB – for working with NoSQL databases  
+🟦 TypeScript – for writing safer and more maintainable JavaScript  
+I'm exploring the MERN stack step-by-step to become a confident full-stack developer.  
+- 💡 Interested in building tech solutions that make an impact  
 - ✨ Dream: To bridge the gap between **humans and AI**
 
----
+</td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" />
+    </td>
+  </tr>
+</table>
+
 
 
 ### 💻 Tech Stack
