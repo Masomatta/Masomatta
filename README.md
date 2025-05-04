@@ -6,27 +6,33 @@
 
 
 ---
-### 🧠 About Me
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
-### 🧠 About Me
-<div style="display: flex"> 
-  <div>
-- 🎓 Junior web developer with a passion for **full-stack development** and **artificial intelligence**  
-- 🌱 Currently learning and building projects with:  
-  ⚛️ React.js – dynamic user interfaces  
-  🎨 Tailwind CSS – clean and responsive UI  
-  🟢 Node.js & 🧩 Express.js – backend development  
-  🍃 MongoDB – NoSQL databases  
-  🟦 TypeScript – safer, scalable JavaScript  
-- 💡 Interested in building tech solutions that make an impact  
-- ✨ Dream: To bridge the gap between **humans and AI**  
+  <!-- Left Side: About Me Text -->
+  <div style="flex: 1;">
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>🎓 Junior web developer with a passion for <strong>full-stack development</strong> and <strong>artificial intelligence</strong></li>
+      <li>🌱 Currently Learning:</li>
+      <ul>
+        <li>⚛️ React.js – for building dynamic user interfaces</li>
+        <li>🎨 Tailwind CSS – for writing clean and responsive UI styles</li>
+        <li>🟢 Node.js & 🧩 Express.js – for backend development and APIs</li>
+        <li>🍃 MongoDB – for working with NoSQL databases</li>
+        <li>🟦 TypeScript – for writing safer and more maintainable JavaScript</li>
+      </ul>
+      <li>🚀 Exploring the MERN stack step-by-step to become a confident full-stack developer.</li>
+      <li>💡 Interested in building tech solutions that make an impact</li>
+      <li>✨ Dream: To bridge the gap between <strong>humans and AI</strong></li>
+    </ul>
+  </div>
+
+  <!-- Right Side: Animation -->
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" style="max-width: 100%; height: auto;" alt="Coding Animation" />
+  </div>
+
 </div>
-<div> 
-<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
-</p>
-</div>
-</div>
+
 
 
 ### 💻 Tech Stack
