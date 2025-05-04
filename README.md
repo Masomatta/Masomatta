@@ -25,7 +25,7 @@ I'm exploring the MERN stack step-by-step to become a confident full-stack devel
 - ✨ Dream: To bridge the gap between **humans and AI**
 
 <div>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" style="flex"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" style="flex"/>
   </div>
   </div>
 </div>
