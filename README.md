@@ -8,7 +8,7 @@
 ---
 ### 🧠 About Me
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items:; gap: 20px;">
 
   <div style="flex: 1; text-align: left;">
 
