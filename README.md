@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Masooma Atayee</h1>
 <h3 align="center">Aspiring Junior web developer | AI Enthusiast | Lifelong Learner</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!;Recently+started+my+coding+journey." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 
 ---
 ### 🧠 About Me
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex;">
 
-  <div style="flex: 1;">
+  <div style="flex;">
 
 - 🎓 Junior web developer with a passion for **full-stack development** and **artificial intelligence**  
 - 🌱 Currently Learning  
