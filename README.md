@@ -9,12 +9,12 @@
 
 ### 🧠 About Me
 
-- 🎓 Junior web developer with a passion for **full-stack development** and **artificial intelligence**
+- 🎓 Junior web developer with a passion for **full-stack development** and **artificial intelligence**  (https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3cjBtMGxlNTdsbXZyMXpwNjB6dGJxam1jaG1xbGY1Y2wwcnBvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 - 🌱 Currently Learning
 I'm currently learning and building projects with:
 ⚛️ React.js – for building dynamic user interfaces
 🎨 Tailwind CSS – for writing clean and responsive UI styles
-🟢 Node.js & 🧩 Express.js – for backend development and APIs
+🟢 Node.js & 🧩 Express.js – for backend development and APIs       
 🍃 MongoDB – for working with NoSQL databases
 🟦 TypeScript – for writing safer and more maintainable JavaScript
 I'm exploring the MERN stack step-by-step to become a confident full-stack developer.
