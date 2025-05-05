@@ -4,42 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-<style>
-  .about-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 20px;
-    padding: 20px;
-  }
-
-  .about-text, .about-gif {
-    flex: 1 1 300px;
-  }
-
-  .about-text {
-    max-width: 600px;
-  }
-
-  .about-gif {
-    max-width: 400px;
-  }
-
-  .about-gif img {
-    width: 100%;
-    border-radius: 10px;
-  }
-
-  @media (max-width: 768px) {
-    .about-container {
-      flex-direction: column;
-      align-items: center;
-    }
-  }
-</style>
-
 <div class="about-container">
   <!-- Text Section -->
   <div class="about-text">
