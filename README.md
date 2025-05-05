@@ -4,9 +4,45 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px; padding: 20px;">
+<style>
+  .about-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .about-text, .about-gif {
+    flex: 1 1 300px;
+  }
+
+  .about-text {
+    max-width: 600px;
+  }
+
+  .about-gif {
+    max-width: 400px;
+  }
+
+  .about-gif img {
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  @media (max-width: 768px) {
+    .about-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+</style>
+
+<div class="about-container">
   <!-- Text Section -->
-  <div style="flex: 1 1 300px; min-width: 280px; max-width: 600px;">
+  <div class="about-text">
     <h3>🧠 About Me</h3>
     <ul>
       <li>🎓 Junior web developer passionate about <strong>full-stack development</strong> and <strong>AI</strong></li>
@@ -24,11 +60,12 @@
     </ul>
   </div>
 
-  <!-- Animation Section -->
-  <div style="flex: 1 1 300px; min-width: 280px; max-width: 400px;">
-    <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" style="width: 100%; border-radius: 10px;" />
+  <!-- GIF Section -->
+  <div class="about-gif">
+    <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" />
   </div>
 </div>
+
 
 
 
