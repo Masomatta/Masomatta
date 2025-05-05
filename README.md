@@ -11,7 +11,7 @@
 ### 🧠 About Me
 <div align="right">
   <img alt="Coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-</div>
+
 - 🎓 Junior web developer passionate about full-stack development and AI.
 - 🌱 Currently learning and building projects with:
   - ⚛️ **React.js** – dynamic user interfaces
@@ -21,7 +21,7 @@
   - 🟦 **TypeScript** – scalable JavaScript
 - 💡 Love turning ideas into reality with code.
 - ✨ Dream: To bridge the gap between humans and AI.
-
+</div>
 ---
 
 ### 💻 Tech Stack
