@@ -4,37 +4,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-<div class="about-container">
-  <!-- Text Section -->
-  <div class="about-text">
-    <h3>🧠 About Me</h3>
-    <ul>
-      <li>🎓 Junior web developer passionate about <strong>full-stack development</strong> and <strong>AI</strong></li>
-      <li>🌱 Currently learning and building projects with:
-        <ul>
-          <li>⚛️ React.js – dynamic user interfaces</li>
-          <li>🎨 Tailwind CSS – responsive styling</li>
-          <li>🟢 Node.js & 🧩 Express – backend development</li>
-          <li>🍃 MongoDB – NoSQL databases</li>
-          <li>🟦 TypeScript – scalable JavaScript</li>
-        </ul>
-      </li>
-      <li>💡 Love turning ideas into reality with code</li>
-      <li>✨ Dream: To bridge the gap between <strong>humans and AI</strong></li>
-    </ul>
-  </div>
 
-  <!-- GIF Section -->
   <div class="about-gif">
-    <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" />
+    <img align="right" alt="Coding" width="400"
+      src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" />
   </div>
-</div>
 
+##🧠 About Me
+  
+  -🎓 Junior web developer passionate about <strong>full-stack development</strong> and <strong>AI</strong></li>
+  -🌱 Currently learning and building projects with:
+  -⚛️ React.js – dynamic user interfaces
+  -🎨 Tailwind CSS – responsive styling
+  -🟢 Node.js & 🧩 Express – backend development
+  -🍃 MongoDB – NoSQL databases
+  -🟦 TypeScript – scalable JavaScript
+- 💡 Love turning ideas into reality with code
+-✨ Dream: To bridge the gap between humans and AI
+    
 
-
-
-
-
+  
 ### 💻 Tech Stack
 
 **Languages & Tools:**
