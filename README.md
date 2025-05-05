@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px; padding: 20px;">
   <!-- Text Section -->
-  <div style="flex: 1 1 300px; max-width: 600px;">
+  <div style="flex: 1 1 300px; min-width: 280px; max-width: 600px;">
     <h3>🧠 About Me</h3>
     <ul>
       <li>🎓 Junior web developer passionate about <strong>full-stack development</strong> and <strong>AI</strong></li>
@@ -25,10 +25,11 @@
   </div>
 
   <!-- Animation Section -->
-  <div style="flex: 1 1 300px; max-width: 400px;">
+  <div style="flex: 1 1 300px; min-width: 280px; max-width: 400px;">
     <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" style="width: 100%; border-radius: 10px;" />
   </div>
 </div>
+
 
 
 
