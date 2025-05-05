@@ -10,15 +10,15 @@
       src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" />
   </div>
 
-##🧠 About Me
-  
-  -🎓 Junior web developer passionate about <strong>full-stack development</strong> and <strong>AI</strong></li>
-  -🌱 Currently learning and building projects with:
-  -⚛️ React.js – dynamic user interfaces
-  -🎨 Tailwind CSS – responsive styling
-  -🟢 Node.js & 🧩 Express – backend development
-  -🍃 MongoDB – NoSQL databases
-  -🟦 TypeScript – scalable JavaScript
+
+🧠 About Me
+-🎓 Junior web developer passionate about full-stack development and AI
+-🌱 Currently learning and building projects with:
+-⚛️ React.js – dynamic user interfaces
+-🎨 Tailwind CSS – responsive styling
+-🟢 Node.js & 🧩 Express – backend development
+-🍃 MongoDB – NoSQL databases
+-🟦 TypeScript – scalable JavaScript
 - 💡 Love turning ideas into reality with code
 -✨ Dream: To bridge the gap between humans and AI
     
