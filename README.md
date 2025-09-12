@@ -21,7 +21,9 @@
   - 🍃 **MongoDB** – NoSQL databases
   - 🟦 **TypeScript** – scalable JavaScript
 - 💡 Love turning ideas into reality with code
-- ✨ Dream: To be a pioneer in technology 
+- ✨ Dream: To be a pioneer in technology
+- FACT: I code better with green tea and 🎶
+…and sometimes 💃 after fixing bugs ✨😉😅
 
 ---
 
