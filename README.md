@@ -25,6 +25,7 @@
 - ✨ Dream: To be a pioneer in technology
 - FACT: I code better with green tea and 🎶
 …and sometimes 💃 after fixing bugs ✨😉😅
+- no favorite singer, eclectic taste😏🎧
 
 ---
 
