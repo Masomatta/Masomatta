@@ -14,6 +14,7 @@
     width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🎓 Junior web developer passionate about full-stack development and AI.
+- CS student at CQUPT
 - 🌱 Currently learning and building projects with:
   - ⚛️ **React.js** – dynamic user interfaces
   - 🎨 **Tailwind CSS** – responsive styling
