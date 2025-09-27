@@ -15,14 +15,9 @@
 
 - 🎓 Junior web developer passionate about full-stack development and AI.
 - CS student at CQUPT called （马安琪）
-- newly entering cs, focusing on credits😀, struggling with 汉语😑
+- newly enter cs, focusing on credits😀, struggling with 汉语😑
 - 🌱 Currently learning and building projects with:
-  - ⚛️ **React.js** – dynamic user interfaces
-  - 🎨 **Tailwind CSS** – responsive styling
-  - 🟢 **Node.js** & 🧩 **Express** – backend development
-  - 🍃 **MongoDB** – NoSQL databases
-  - 🟦 **TypeScript** – scalable JavaScript
-- 💡 Love turning ideas into reality with code
+  - ⚛️ **React.js**， **Tailwind CSS**，🟢 **Node.js**，**Express**，🍃 **MongoDB**， 🟦 **TypeScript** 
 - ✨ Dream: To be a pioneer in technology
 - FACT: I code better with green tea and 🎶
 …and sometimes 💃 after fixing bugs ✨😉😅
