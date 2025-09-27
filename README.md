@@ -15,6 +15,7 @@
 
 - 🎓 Junior web developer passionate about full-stack development and AI.
 - CS student at CQUPT called （马安琪）
+- newly entering cs, focusing on credits😀, struggling with 汉语😑
 - 🌱 Currently learning and building projects with:
   - ⚛️ **React.js** – dynamic user interfaces
   - 🎨 **Tailwind CSS** – responsive styling
