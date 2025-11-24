@@ -19,7 +19,7 @@
 - 🌱 Currently learning and building projects with:
   - ⚛️ **React.js**， **Tailwind CSS**，🟢 **Node.js**，**Express**，🍃 **MongoDB**， 🟦 **TypeScript** 
 - ✨ Dream: To be a pioneer in technology
-- FACT: I code better with green tea and 🎶
+- Just ME: code better with green tea and 🎶
 …and sometimes 💃 after fixing bugs ✨😉😅
 - no favorite singer, eclectic taste😏🎧
 
